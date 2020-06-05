@@ -1,0 +1,113 @@
+.container {
+border: 0px;
+padding: 0px;
+margin: 0px;
+}
+.body-1 {
+    background-color: lightgray;
+}
+.menu {
+    background-color: white;
+margin: 0px;
+padding-left: 0px;
+padding-right: 0px;
+}
+.meny-1 {
+    margin: 0px;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 100%;
+}
+.box-2 {
+    background-color: lightcoral;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 0px;
+    margin-right: 5px;
+    border-style: dotted;
+    font-size: small;
+    border-radius: 8px;
+    float: left;
+    padding-top: 0px;
+}
+.box-3 {
+    background-color: lightcoral;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 0px;
+    margin-right: 5px;
+    border-style: dotted;
+    font-size:small;
+    border-radius: 8px;
+    float: left;
+    padding-top: 0px;
+
+}
+.box-4 {
+    background-color: lightcoral;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 0px;
+    border-style: dotted;
+    font-size:small;
+    border-radius: 8px;
+    float: left;
+    margin-right: 5px;
+    padding-top: 0px;
+}
+.box-5 {
+    background-color: lightcoral;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 0px;
+    border-style: dotted;
+    font-size:small;
+    border-radius: 8px;
+    float: left;
+    padding-top: 0px;
+
+}
+.big-box {
+    display: inline-block;
+    border: 2px dotted gray;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 0px;
+}
+.memes-1 {
+    display: inline-block;
+    border: 2px dotted gray;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 0px;
+}
+.memes-box-1 {
+    background-color: lightcoral;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 0px;
+    border-style: dotted;
+    font-size:small;
+    border-radius: 8px;
+    float: left;
+    padding-top: 0px;
+    margin-right: 5px;
+
+}
+.memes-box-2 {
+    background-color: lightcoral;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 0px;
+    border-style: dotted;
+    font-size:small;
+    border-radius: 8px;
+    float: left;
+    padding-top: 0px;
+}
